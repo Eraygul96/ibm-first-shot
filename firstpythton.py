@@ -1,1 +1,3 @@
-Eray first
+# Display the output
+print('new phyton file')
+
