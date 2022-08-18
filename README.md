@@ -1,2 +1,2 @@
-# ibm-first-shot
+# ibm-first
 1-0
